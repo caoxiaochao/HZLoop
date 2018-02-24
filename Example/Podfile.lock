@@ -1,0 +1,26 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - HZLoop (0.1.0)
+  - Kiwi (3.0.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - HZLoop (from `../`)
+  - Kiwi
+
+EXTERNAL SOURCES:
+  HZLoop:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  HZLoop: 3084c2f062a7533cefe9434ed2d0d33e3cf2426e
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+
+PODFILE CHECKSUM: 2a32e9815a89b5ca0396326291e50f39a8ea0333
+
+COCOAPODS: 1.4.0

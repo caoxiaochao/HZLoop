@@ -1,0 +1,6 @@
+framework module HZLoop {
+  umbrella header "HZLoop-umbrella.h"
+
+  export *
+  module * { export * }
+}

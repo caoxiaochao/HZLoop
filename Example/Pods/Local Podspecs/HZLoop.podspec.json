@@ -1,0 +1,22 @@
+{
+  "name": "HZLoop",
+  "version": "0.1.0",
+  "summary": "A short description of HZLoop.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caoxiaochao/HZLoop",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caoxiaochao": "ccly080518@163.com"
+  },
+  "source": {
+    "git": "https://github.com/caoxiaochao/HZLoop.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "HZLoop/Classes/**/*"
+}
